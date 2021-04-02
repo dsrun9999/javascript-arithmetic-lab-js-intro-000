@@ -25,7 +25,7 @@ function divide(num) {
 var a = 5
 var b = 10
 
-function sum(a, b){
+function sum(a, b) {
   var new = a + b
   return new;
 }
